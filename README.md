@@ -1,5 +1,5 @@
 # starwars-data-explorer
-Star Wars Data Explorer - R Shiny app to explore Star Wars characters
+Star Wars Data Explorer: R Shiny App to Explore Star Wars Characters
 
 
 ## Contents
