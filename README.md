@@ -21,9 +21,9 @@ This project aims to make Star Wars data more accessible and engaging through dy
 
 ## 2. Repository
 This repository contains the Shiny app code and associated files to run the Star Wars Data Explorer.
-- [`starwars_explorer.R`](starwars_explorer.R): An interactive Shiny app designed to allow users to explore and analyse various characteristics of Star Wars characters.
-- `starwars.csv`: CSV version of the **Star Wars** dataset.
-- [`README.md`](README.md): README file
+- [`starwars_explorer.R`](starwars_explorer.R) - An interactive Shiny app designed to allow users to explore and analyse various characteristics of Star Wars characters
+- `starwars.csv` - CSV version of the **Star Wars** dataset
+- [`README.md`](README.md) - README file
 
 
 ## 3. Features
