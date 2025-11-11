@@ -115,4 +115,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 ## 9. Author
-This project is developed and maintained by [Bernard Tse](https://github.com/bernardtse), with assistance from OpenAI’s ChatGPT in areas such as code refinement, optimisation, and debugging.
+This project is developed and maintained by [Bernard Tse](https://github.com/bernardtse), with assistance from [OpenAI](https://openai.com)’s ChatGPT in areas such as code refinement, optimisation, and debugging.
